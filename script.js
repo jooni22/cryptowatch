@@ -6,9 +6,9 @@ var config = {
 
 // exchange, currency pair, html element id
 var charts = [
-    ['poloniex', 'xrpusd', 'one'],
-    ['bitfinex', 'btcusd', 'two'],
-    ['poloniex', 'xmrusd', 'three'],
+    ['bitfinex', 'btcusd', 'one'],
+    ['poloniex', 'xrpbtc', 'two'],
+    ['poloniex', 'xmrbtc', 'three'],
     ['coinbase', 'ethusd', 'four']
 ]
 

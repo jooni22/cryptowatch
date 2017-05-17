@@ -9,7 +9,8 @@ var charts = [
     ['bitfinex', 'btcusd', 'one'],
     ['poloniex', 'xrpbtc', 'two'],
     ['poloniex', 'xmrbtc', 'three'],
-    ['coinbase', 'ethusd', 'four']
+    ['coinbase', 'ethusd', 'four'],
+    ['poloniex', 'strusd', 'five']
 ]
 
 // create all charts
